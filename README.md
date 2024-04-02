@@ -18,7 +18,8 @@ The table consists of data of New York Stock Exchange consist of 851264 entries.
 • **Column5 low**: Low is the lowest price of the date.
 • **Column6 high**: High is the highest price of the date.
 
-**Data description of securities.csv file :**
+_**Data description of securities.csv file :**_
+
 Table consists of 504 entries of descriptions of companies.
 • Column1 : Ticker Symbol It is the symbol of companies, same as the symbol in df
 • Column2 : Security It is the name of a corporation like amazon.com Inc .
